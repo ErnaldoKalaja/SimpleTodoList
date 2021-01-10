@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthough.gif' title='App Walkthrough' width='' alt='App Walkthrough' />
+<img src='walkthrough.gif' title='App Walkthrough' width='' alt='App Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
